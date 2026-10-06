@@ -3,7 +3,9 @@ import json
 import re
 from calendar import timegm
 from datetime import datetime, timezone
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
+from urllib.request import Request, urlopen
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import feedparser
 
@@ -31,6 +33,8 @@ FEEDS = {
 }
 
 MAX_PER_FEED = 20
+MAX_IMAGE_LOOKUPS = 120
+IMAGE_WORKERS = 8
 
 def clean(text, limit=220):
     text = re.sub(r"<[^>]+>", "", text or "")
@@ -59,6 +63,50 @@ def image_url(entry):
     html = entry.get("summary") or entry.get("description") or ""
     match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html, re.I)
     return valid_url(match.group(1)) if match else ""
+
+def page_image(url):
+    """Fallback: extract the publisher's Open Graph/Twitter image from the article page."""
+    try:
+        req = Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; iGamingNewsBot/1.0)",
+            "Accept": "text/html,application/xhtml+xml",
+        })
+        with urlopen(req, timeout=8) as response:
+            html = response.read(750_000).decode("utf-8", errors="ignore")
+    except Exception as exc:
+        print(f"[image-skip] {url}: {exc}")
+        return ""
+
+    patterns = [
+        r'<meta[^>]+property=["\\\']og:image(?::secure_url)?["\\\'][^>]+content=["\\\']([^"\\\']+)["\\\']',
+        r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+property=["\\\']og:image(?::secure_url)?["\\\']',
+        r'<meta[^>]+name=["\\\']twitter:image(?::src)?["\\\'][^>]+content=["\\\']([^"\\\']+)["\\\']',
+        r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+name=["\\\']twitter:image(?::src)?["\\\']',
+        r'"image"\\s*:\\s*"([^"]+\\.(?:jpg|jpeg|png|webp)(?:\\?[^"]*)?)"',
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, html, re.I)
+        if match:
+            image = valid_url(urljoin(url, match.group(1).replace("\\\\/", "/")))
+            if image:
+                return image
+    return ""
+
+
+def enrich_images(items):
+    missing = [item for item in items if not item.get("image")][:MAX_IMAGE_LOOKUPS]
+    if not missing:
+        return
+    print(f"[images] Looking up article images for {len(missing)} items…")
+    with ThreadPoolExecutor(max_workers=IMAGE_WORKERS) as pool:
+        futures = {pool.submit(page_image, item["link"]): item for item in missing}
+        for future in as_completed(futures):
+            item = futures[future]
+            try:
+                item["image"] = future.result()
+            except Exception as exc:
+                print(f"[image-skip] {item['link']}: {exc}")
+
 
 def main():
     items, seen = [], set()
@@ -90,6 +138,7 @@ def main():
             added += 1
         print(f"[ok] {source}: added {added} entries")
     items.sort(key=lambda item: item["date"], reverse=True)
+    enrich_images(items)
     data = {"updated": datetime.now(timezone.utc).isoformat(), "items": items}
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
