@@ -114,20 +114,20 @@ const image = (src, cls='card-img') => src
   : '<div class="' + cls + ' no-image">iGaming News</div>';
 
 function leadCard(i) {
-  return '<article class="lead"><a href="' + esc(safeUrl(i.link)) + '">' +
+  return '<article class="lead"><a href="' + esc(safeUrl(i.link)) + '" target="_blank" rel="noopener noreferrer">' +
     image(i.image,'card-img') +
     '<div class="content"><span class="tag">' + esc(i.source) + '</span>' +
     '<span class="date"> · ' + dateText(i.date) + '</span>' +
     '<h3>' + esc(i.title) + '</h3><p class="summary">' + esc(i.summary) + '</p></div></a></article>';
 }
 function sideCard(i) {
-  return '<article class="side-card"><a href="' + esc(safeUrl(i.link)) + '">' +
-    image(i.image,'thumb') + '</a><div><a href="' + esc(safeUrl(i.link)) + '">' +
+  return '<article class="side-card"><a href="' + esc(safeUrl(i.link)) + '" target="_blank" rel="noopener noreferrer">' +
+    image(i.image,'thumb') + '</a><div><a href="' + esc(safeUrl(i.link)) + '" target="_blank" rel="noopener noreferrer">' +
     '<span class="tag">' + esc(i.source) + '</span><h3>' + esc(i.title) + '</h3></a>' +
     '<span class="date">' + dateText(i.date) + '</span></div></article>';
 }
 function gridCard(i) {
-  return '<article class="card"><a href="' + esc(safeUrl(i.link)) + '">' +
+  return '<article class="card"><a href="' + esc(safeUrl(i.link)) + '" target="_blank" rel="noopener noreferrer">' +
     image(i.image) + '<span class="tag">' + esc(i.source) + '</span>' +
     '<span class="date"> · ' + dateText(i.date) + '</span><h3>' + esc(i.title) + '</h3>' +
     '<p class="summary">' + esc(i.summary) + '</p></a></article>';
