@@ -1,6 +1,11 @@
 name: Update iGaming news
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scraper.py"
+      - ".github/workflows/update.yml"
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
@@ -27,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --upgrade pip feedparser
 
-      - name: Scrape news
+      - name: Scrape today's iGaming news
         run: python scraper.py
 
       - name: Commit updated news
