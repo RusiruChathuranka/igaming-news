@@ -25,6 +25,9 @@ FEEDS = {
     "Gambling News": "https://www.gamblingnews.com/feed/",
     "SBC Noticias": "https://www.sbcnoticias.com/feed/",
     "iGamingToday": "https://www.igamingtoday.com/feed/",
+    "InterGame Online": "https://www.intergameonline.com/rss/igaming/news",
+    "iGaming Expert": "https://igamingexpert.com/feed/",
+    "European Gaming": "https://europeangaming.eu/portal/feed/",
 }
 
 MAX_PER_FEED = 20
