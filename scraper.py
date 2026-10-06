@@ -24,6 +24,7 @@ FEEDS = {
     "Inside Asian Gaming": "https://www.asgam.com/index.php/feed/",
     "Gambling News": "https://www.gamblingnews.com/feed/",
     "SBC Noticias": "https://www.sbcnoticias.com/feed/",
+    "iGamingToday": "https://www.igamingtoday.com/feed/",
 }
 
 MAX_PER_FEED = 20
