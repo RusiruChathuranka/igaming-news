@@ -1,6 +1,398 @@
 {
-  "updated": "2026-10-20T07:09:31.273158+00:00",
+  "updated": "2026-10-20T13:20:07.340980+00:00",
   "items": [
+    {
+      "title": "Flutter to cut up to 1,400 jobs across UK and Ireland",
+      "link": "https://www.intergameonline.com/igaming/news/flutter-entertainment-cut-jobs-uk-ireland",
+      "summary": "Paddy Power and Betfair operator blames higher UK igaming taxes.",
+      "source": "InterGame Online",
+      "date": "2026-10-20T13:13:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Stormy September: Rare Nor’easter Washes Out Atlantic City Casino Revenue",
+      "link": "https://www.casino.org/news/september-noreaster-washes-out-atlantic-city-casino-revenue/",
+      "summary": "A rare September nor&#8217;easter that battered shorelines from the Carolinas to New England disrupted play in Atlantic City last month. On Monday (Oct. 19), the New Jersey Division of Gaming Enforcement (DGE) published…",
+      "source": "Casino.org",
+      "date": "2026-10-20T13:06:54+00:00",
+      "image": "https://www.casino.org/news/wp-content/uploads/2026/10/Noreaster-storm-threatens-US-East-Coast.jpg"
+    },
+    {
+      "title": "South Korean authorities record the country’s biggest illegal gambling raid",
+      "link": "https://igamingexpert.com/regions/asia/korean-illegal-gambling-raid/",
+      "summary": "Authorities in South Korea have claimed the biggest illegal gambling raid in their history as they made arrests linked to a network worth over 23trn won (£13m). The South Chungcheong Provincial Police Agency said that 77…",
+      "source": "iGaming Expert",
+      "date": "2026-10-20T13:00:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hippos ATG Secures Finnish License as Market Launch Approaches",
+      "link": "https://www.gamblingnews.com/news/hippos-atg-secures-finnish-license-as-market-launch-approaches/",
+      "summary": "Hippos ATG Oy has confirmed that it has secured a gaming license in Finland, becoming the second company to make such an announcement. This comes as the country prepares to end its gambling monopoly and launch regulated…",
+      "source": "Gambling News",
+      "date": "2026-10-20T12:58:47+00:00",
+      "image": "https://www.gamblingnews.com/wp-content/uploads/2023/04/finland-national-flag.jpeg"
+    },
+    {
+      "title": "Mainland Chinese outbound trips rise 7.5% to 48.5M in 3Q26",
+      "link": "https://agbrief.com/news/china/20/10/2026/mainland-chinese-outbound-trips-rise-7-5-to-48-5m-in-3q26/",
+      "summary": "Mainland Chinese outbound trips rose 7.5% to 48.5 million in Q3, with Macau ranking second among destinations behind Hong Kong. The post Mainland Chinese outbound trips rise 7.5% to 48.5M in 3Q26 first appeared on Asia G…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T12:57:55+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2024/05/Macau-tourism-1-1024x682.webp"
+    },
+    {
+      "title": "CJEU sets delivery date for Malta Bill 55 verdict",
+      "link": "https://igamingexpert.com/regions/europe/malta-bill-55-cjeu-delivery-day/",
+      "summary": "iGaming industry stakeholders will be watching the Court of Justice of the European Union (CJEU) very closely next month, as it is scheduled to deliver a judgement on the heavily debated Malta Bill 55 on 19 November. Int…",
+      "source": "iGaming Expert",
+      "date": "2026-10-20T12:29:26+00:00",
+      "image": ""
+    },
+    {
+      "title": "South Korean casino drop could stabilize after China tax deadline: KB Securities",
+      "link": "https://agbrief.com/news/south-korea/20/10/2026/south-korean-casino-drop-could-stabilize-after-china-tax-deadline-kb-securities/",
+      "summary": "KB Securities expects the decline in drop at South Korea’s foreigner-only casinos to ease after China’s October 22nd offshore trust tax deadline. The post South Korean casino drop could stabilize after China tax deadline…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T12:27:59+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2018/02/Seoul.jpg"
+    },
+    {
+      "title": "Flutter to Cut Up to 1,400 Jobs as UK Gambling Tax Hikes Force Restructuring",
+      "link": "https://www.casino.org/news/flutter-to-cut-up-to-1400-jobs-as-uk-gambling-tax-hikes-force-restructuring/",
+      "summary": "Flutter is set to cut 1,400 jobs in the UK and Ireland. (Image: Flutter Entertainment) The post Flutter to Cut Up to 1,400 Jobs as UK Gambling Tax Hikes Force Restructuring appeared first on Casino.org.",
+      "source": "Casino.org",
+      "date": "2026-10-20T12:05:43+00:00",
+      "image": "https://www.casino.org/news/wp-content/uploads/2026/10/flutter-1.jpg"
+    },
+    {
+      "title": "Flutter axes thousands of jobs as tax hikes fuel new UK landscape",
+      "link": "https://igamingexpert.com/features/flutter-axes-thousands-of-jobs-as-tax-hikes-fuel-new-uk-landscape/",
+      "summary": "Flutter has been forced to take drastic UK action as hostility towards the UK gambling sector accelerates from within the Labour Party. The operator has confirmed it is embarking on a restructuring plan, which will resul…",
+      "source": "iGaming Expert",
+      "date": "2026-10-20T12:00:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "LCKY Group completes RoyalCasino acquisition, adding three Danish brands",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/10/20/216312/lcky-group-completes-royalcasino-acquisition/",
+      "summary": "The deal, closed in August after regulatory approval, adds three Danish online casino brands to the Malta-based group&#8230; The post LCKY Group completes RoyalCasino acquisition, adding three Danish brands appeared firs…",
+      "source": "European Gaming",
+      "date": "2026-10-20T11:52:09+00:00",
+      "image": "https://media.europeangaming.eu/uploads/2026/10/LCKY-Group-completes-RoyalCasino-acquisition-adding-three-Danish-brands.jpg"
+    },
+    {
+      "title": "Continent 8 launches SecureEdge with Varnish Software for iGaming operators",
+      "link": "https://agbrief.com/news/world/20/10/2026/continent-8-launches-secureedge-with-varnish-software-for-igaming-operators/",
+      "summary": "Continent 8 Technologies has partnered with Varnish Software to launch SecureEdge, a fully managed content delivery and edge security service for operators. The post Continent 8 launches SecureEdge with Varnish Software…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T11:49:25+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2026/10/Continent-8-launches-SecureEdge-with-Varnish-Software-for-iGaming-operators-1024x576.webp"
+    },
+    {
+      "title": "Flutter Entertainment to cut up to 1,400 UK & Ireland jobs",
+      "link": "https://sbcnews.co.uk/sportsbook/2026/10/20/flutter-cuts-1400-uki-jobs/",
+      "summary": "Flutter Entertainment will make mass redundancies in its UK &#38; Ireland operations as tax burdens continue to weigh heavily on the biggest gambling business on these shores.&#160; The company will cut up to 1,400 jobs…",
+      "source": "SBC News",
+      "date": "2026-10-20T11:43:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "FIFA’s $150M Prediction-Market Partner Faces Questions Over $108M in Trades",
+      "link": "https://www.casino.org/news/fifas-150m-prediction-market-partner-faces-questions-over-108m-in-trades/",
+      "summary": "A prediction-market platform with alleged links to the Abu Dhabi royal family&#160;is facing questions over whether much of its trading volume was artificially inflated. ADI PredictStreet first raised eyebrows last April…",
+      "source": "Casino.org",
+      "date": "2026-10-20T11:39:03+00:00",
+      "image": "https://www.casino.org/news/wp-content/uploads/2026/10/adi.jpg"
+    },
+    {
+      "title": "Yuri Guerra, MINCETUR: “Estamos preparando nuevas reglas para la publicidad del juego”",
+      "link": "https://sbcnoticias.com/mincetur-preparamos-nuevas-reglas-publicidad-juego/",
+      "summary": "La regulación de los juegos de azar en Perú atraviesa una nueva etapa de revisión, con la publicidad, la carga tributaria y la protección de los usuarios entre los principales [&#8230;]",
+      "source": "SBC Noticias",
+      "date": "2026-10-20T11:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Austrian Finance Ministry expects 20 bidders for online gambling licences",
+      "link": "https://europeangaming.eu/portal/latest-news/2026/10/20/216306/austria-online-gambling-licence-applicants-channelisation/",
+      "summary": "The impact assessment behind the bill assumes 45% of online gambling will take place with licensed operators once&#8230; The post Austrian Finance Ministry expects 20 bidders for online gambling licences appeared first o…",
+      "source": "European Gaming",
+      "date": "2026-10-20T11:24:06+00:00",
+      "image": "https://media.europeangaming.eu/uploads/2026/10/austria-online-gambling-licences-featured.jpg"
+    },
+    {
+      "title": "Cambodia plans online payment system for gambling duties",
+      "link": "https://agbrief.com/news/cambodia/20/10/2026/cambodia-plans-online-payment-system-for-gambling-duties/",
+      "summary": "Cambodia is preparing an online payment system to improve the collection and management of gambling duties and regulatory revenues. The post Cambodia plans online payment system for gambling duties first appeared on Asia…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T11:10:34+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2026/10/CGMC-Secretary-General-Yeth-Vinel-1024x715.jpg"
+    },
+    {
+      "title": "Michigan Player Becomes the Latest Winner of a Powerball Match 5 Prize",
+      "link": "https://www.gamblingnews.com/news/michigan-player-becomes-the-latest-winner-of-a-powerball-match-5-prize/",
+      "summary": "While Monday’s Powerball drawing once again ended without a jackpot winner, several big wins made the drawing exciting nonetheless. These included a player in Michigan, who became the state’s latest millionaire after sec…",
+      "source": "Gambling News",
+      "date": "2026-10-20T11:10:09+00:00",
+      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/powerball-lottery-image-5-news.jpg"
+    },
+    {
+      "title": "Kendoo introduces 4 Gates of Pyramid with four-way feature action",
+      "link": "https://agbrief.com/news/20/10/2026/kendoo-introduces-4-gates-of-pyramid-with-four-way-feature-action/",
+      "summary": "Kendoo has launched 4 Gates of Pyramid, the latest addition to its Master Pots series, bringing together four distinct Free Spins features, multiple Collect mechanics and a 1,000x Grand Jackpot. The post Kendoo introduce…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T11:09:54+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2026/10/image002-2-1024x400.webp"
+    },
+    {
+      "title": "Labour grassroots overwhelmingly supportive of gambling taxes",
+      "link": "https://igamingexpert.com/regions/europe/labour-mgd-challenges-tax/",
+      "summary": "Labour members overwhelmingly back higher gambling taxes, increasing pressure on Chancellor John Healey to trigger the doubling of taxes on Machine Games Duty (MGD). Polling by Survation for LabourList, the independent L…",
+      "source": "iGaming Expert",
+      "date": "2026-10-20T11:01:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Japan’s Fukuoka governor calls for “extremely careful” review of Oto IR proposal",
+      "link": "https://agbrief.com/news/japan/20/10/2026/japans-fukuoka-governor-calls-for-extremely-careful-review-of-oto-ir-proposal/",
+      "summary": "Fukuoka’s governor calls for careful consideration of Oto’s IR benefits and risks despite a tight timetable for advancing the proposal. The post Japan’s Fukuoka governor calls for “extremely careful” review of Oto IR pro…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T10:40:44+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2026/10/Oto-1024x768.jpg"
+    },
+    {
+      "title": "AI Sports Prediction Model Agatha.gg Surpasses 1,000 Graded Picks",
+      "link": "https://www.gamblingnews.com/news/ai-sports-prediction-model-agatha-gg-surpasses-1000-graded-picks/",
+      "summary": "Agatha.gg, a free sports picks site where an AI makes every pick, has sealed more than 1,000 picks on the blockchain since its public record began on Oct. 1, 2026, and every one, win or lose, stays listed at agatha.gg/tr…",
+      "source": "Gambling News",
+      "date": "2026-10-20T10:34:05+00:00",
+      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/agatha-gg-every-game-picked-by-ai.jpeg"
+    },
+    {
+      "title": "Maxxi Labs Takes to the Skies with AviаX, New Crash Game",
+      "link": "https://www.gamblingnews.com/news/maxxi-labs-takes-to-the-skies-with-avi%d0%b0x-new-crash-game/",
+      "summary": "Maxxi Labs, a collaboration of private studios, has introduced its latest game &#8211; AviаX, a new crash game that will have players compete for the chance to cash out a prize based on a multiplier before the plane cras…",
+      "source": "Gambling News",
+      "date": "2026-10-20T10:30:11+00:00",
+      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/maxxi-labs-aviax.jpeg"
+    },
+    {
+      "title": "Jason Robins, DraftKings: Moments of turmoil are the time to make a move",
+      "link": "https://igamingexpert.com/features/jason-robins-draftkings-moments-to-make-a-move/",
+      "summary": "DraftKings Chief Executive Officer (CEO) and co-founder Jason Robins believes the biggest opportunities in gaming arrive when everyone else is distracted. Speaking to Sue Schneider on the SBC Leaders podcast in Lisbon, R…",
+      "source": "iGaming Expert",
+      "date": "2026-10-20T10:14:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "Sunbet Italia adopts Fast Track CRM to centralize player engagement",
+      "link": "https://agbrief.com/news/europe/20/10/2026/sunbet-italia-adopts-fast-track-crm-to-centralize-player-engagement/",
+      "summary": "Sunbet Italia, the ADM-licensed Italian sports betting and gaming operator, has announced the adoption of Fast Track CRM, a centralised platform designed to streamline CRM and player engagement activities. The post Sunbe…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T10:11:18+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2026/10/Sunbet-Italia-adopts-Fast-Track-CRM-to-centralize-player-engagement-1024x576.jpg"
+    },
+    {
+      "title": "Pennsylvania State Police Launch Tip Line as Skill Games Ban Takes Effect",
+      "link": "https://www.casino.org/news/pennsylvania-state-police-urge-public-to-report-illegal-skill-games/",
+      "summary": "The Pennsylvania State Police (PSP) are urging the public to report businesses that continue operating or housing skill games—devices now classified as illegal slot machines following a state Supreme Court order that wen…",
+      "source": "Casino.org",
+      "date": "2026-10-20T10:10:00+00:00",
+      "image": "https://www.casino.org/news/wp-content/uploads/2025/05/6634f4203a710.image_.jpg"
+    },
+    {
+      "title": "NBA Expert Eric Pincus: Hornets Made Late Offer as Brandon Miller Sought to Surpass Thompson’s Extension",
+      "link": "https://www.casino.org/news/nba-expert-eric-pincus-hornets-made-late-offer-as-miller-sought-to-surpass-thompsons-deal/",
+      "summary": "The Charlotte Hornets have undergone significant roster shifts this offseason as they prepare for the 2026-27 NBA campaign. But as opening night approaches, the franchise made its core priority official: Brandon Miller i…",
+      "source": "Casino.org",
+      "date": "2026-10-20T10:05:30+00:00",
+      "image": "https://www.casino.org/news/wp-content/uploads/2026/10/GettyImages-2300583947.jpg"
+    },
+    {
+      "title": "HIPTHER launches dedicated AI and cybersecurity summit in Prague",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/10/20/216297/hipther-ai-summit-2027-prague/",
+      "summary": "The new standalone day extends HIPTHER’s Prague event to three days and introduces a €40,000 startup competition. With&#8230; The post HIPTHER launches dedicated AI and cybersecurity summit in Prague appeared first on Eu…",
+      "source": "European Gaming",
+      "date": "2026-10-20T10:02:22+00:00",
+      "image": "https://media.europeangaming.eu/uploads/2026/10/HIPTHER-launches-dedicated-AI-and-cybersecurity-summit-in-Prague.jpg"
+    },
+    {
+      "title": "Expert Analysis – Keith McDonnell: PAGCOR still nursing POGO hangover",
+      "link": "https://igamingexpert.com/features/keith-mcdonnell-pagcor-pogo-hangover/",
+      "summary": "Over two years on from its major regulatory shift, the Philippines’ gaming market is continuing to adjust to life after the ban on offshore gaming operators (POGOs). Speaking to iGaming Expert during the recent SBC Summi…",
+      "source": "iGaming Expert",
+      "date": "2026-10-20T10:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "IWG Introduces Daily Streak to Boost Loyalty and Engagement",
+      "link": "https://www.gamblingnews.com/news/iwg-introduces-daily-streak-to-boost-loyalty-and-engagement/",
+      "summary": "Instant Win Gaming (IWG), one of the leading suppliers of eInstant games to NASPL and WLA-member lotteries, has introduced its Daily Streak. This is a first-to-market feature that is designed to boost engagement by rewar…",
+      "source": "Gambling News",
+      "date": "2026-10-20T09:56:21+00:00",
+      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/daily-streak-rewarding-consecutive-daily-play.jpeg"
+    },
+    {
+      "title": "Hippos ATG secures access to Finland in 2027",
+      "link": "https://sbcnews.co.uk/europe/2026/10/20/finland-hippos-atg/",
+      "summary": "Swedish gambling firm Hippos ATG has secured a licence to go live in Finland once the licensed market opens up on 1 July 2027. The company, co-owned by AB Trav och Galopp and Suomen Hippos ry, will be able to offer horse…",
+      "source": "SBC News",
+      "date": "2026-10-20T09:50:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Highway to Hell? France warns of gambling risks in video games",
+      "link": "https://sbcnews.co.uk/europe/2026/10/20/france-anj-video-games/",
+      "summary": "With 39% of respondents having played hybrid video/gaming products, ANJ, France&#8217;s gambling authority points to new research, raising the alarm at how games like Grand Theft Auto (GTA) act as a “gateway to real mone…",
+      "source": "SBC News",
+      "date": "2026-10-20T09:19:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "The Gambling Wire: Polymarket Takes Ohio to Court, CFTC Opens the Floor and Kalshi Hits Snooze on SCOTUS",
+      "link": "https://www.gamblinginsider.com/news/197267/polymarket-ohio-court-cftc-kalshi-scotus",
+      "summary": "Polymarket takes its fight with Ohio to constitutional grounds, the CFTC weighs the future of event contracts and Kalshi buys more time in its Supreme Court battle, while regulators on both sides of the border hold their…",
+      "source": "Gambling Insider",
+      "date": "2026-10-20T09:13:12+00:00",
+      "image": "https://www.gamblinginsider.com/wp-content/uploads/2026/10/The-Gambling-Wire-Polymarket-Takes-Ohio-to-Court-CFTC-Opens-the-Floor-and-Kalshi-Hits-Snooze-on-SCOTUS.png"
+    },
+    {
+      "title": "Matchbook gains “massive advantage” in exchange space with Betdaq acquisition",
+      "link": "https://sbcnews.co.uk/features/interviews/2026/10/20/matchbook-ceo-interview/",
+      "summary": "Matchbook’s acquisition of fellow UK and Ireland heritage betting exchange Betdaq last week caught the attention of many in the gambling industry. Two weeks prior to that, Ronan McDonagh, Chief Executive Officer of Match…",
+      "source": "SBC News",
+      "date": "2026-10-20T09:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Norsk Tipping & Sportradar: player betting took over in World Cup ‘26",
+      "link": "https://sbcnews.co.uk/features/interviews/2026/10/20/world-cup-player-betting/",
+      "summary": "Once the dust had settled and Spain had strode off with their second World Cup trophy back in July, a lot of fans and pundits began putting the tournament behind them and looking ahead to the domestic seasons. So too did…",
+      "source": "SBC News",
+      "date": "2026-10-20T09:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hippos ATG next to announce Finnish igaming licence",
+      "link": "https://www.intergameonline.com/igaming/news/hippos-atg-finland-igaming-licence",
+      "summary": "ATG and Suomen Hippos joint venture reveals accreditation from Finland’s National Police Board.",
+      "source": "InterGame Online",
+      "date": "2026-10-20T09:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Greentube launches Piggy Prizes: Ghost of Gambini Halloween slot",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/10/20/216292/greentube-piggy-prizes-ghost-of-gambini/",
+      "summary": "The latest Piggy Prizes instalment adds a second Gambini character and a jackpot-only Super Lock &#38; Spin feature,&#8230; The post Greentube launches Piggy Prizes: Ghost of Gambini Halloween slot appeared first on Euro…",
+      "source": "European Gaming",
+      "date": "2026-10-20T08:46:36+00:00",
+      "image": "https://media.europeangaming.eu/uploads/2026/10/Greentube-launches-Piggy-Prizes_-Ghost-of-Gambini-Halloween-slot.jpg"
+    },
+    {
+      "title": "Big CS tournament returns to Bucharest: 1xBet and The MongolZ are ready to take on PGL Masters",
+      "link": "https://agbrief.com/news/world/20/10/2026/big-cs-tournament-returns-to-bucharest-1xbet-and-the-mongolz-are-ready-to-take-on-pgl-masters/",
+      "summary": "From October 24 to 31, the entire esports community will be watching a big tournament in Bucharest. The Romanian capital will host the PGL Masters Bucharest 2026, one of the most high-profile Counter-Strike 2 tournaments…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T08:45:59+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2026/10/1xBet-and-The-MongolZ-are-ready-to-take-on-PGL-Masters.webp"
+    },
+    {
+      "title": "NFL Insider Jason La Canfora’s Week 6 Notebook: Justin Herbert Trade Rumors, Colts Strategy, Sam Darnold",
+      "link": "https://www.casino.org/news/jason-la-canfora-week-6-nfl-diary/",
+      "summary": "No team looms larger over the upcoming NFL trade deadline than the Los Angeles Chargers. They are the chum in the water that contending teams are eager to bite into. Sitting at 0-6 as the biggest disappointment in the NF…",
+      "source": "Casino.org",
+      "date": "2026-10-20T08:39:29+00:00",
+      "image": "https://www.casino.org/news/wp-content/uploads/2023/01/L.A.-Chargers-QB-Justin-Herbert.jpg"
+    },
+    {
+      "title": "New Jersey gaming revenue totals slip again in September",
+      "link": "https://www.intergameonline.com/land-based-gaming/news/new-jersey-revenue-totals-slip-again-in-september",
+      "summary": "The year-to-date total, however, is still climbing against the year-on-year figure.",
+      "source": "InterGame Online",
+      "date": "2026-10-20T08:38:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "South Korea’s Largest Illegal Gambling Investigation Busts $17.2B Network",
+      "link": "https://www.gamblingnews.com/news/south-koreas-largest-illegal-gambling-investigation-busts-17-2b-network/",
+      "summary": "Police in South Korea have dismantled a massive illegal online gambling network through what they described as the largest operation of its kind in the country’s history.&#160; The network allegedly handled $17.2 billion…",
+      "source": "Gambling News",
+      "date": "2026-10-20T08:34:28+00:00",
+      "image": "https://www.gamblingnews.com/wp-content/uploads/2023/04/south-korea-official-flag-news.jpg"
+    },
+    {
+      "title": "ICONIC21 releases four-game Halloween Pack across slots, blackjack and crash",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/10/20/216287/iconic21-halloween-pack-four-games/",
+      "summary": "The bundled release lets operators switch a themed lobby section in a single move, rather than sourcing individual&#8230; The post ICONIC21 releases four-game Halloween Pack across slots, blackjack and crash appeared fir…",
+      "source": "European Gaming",
+      "date": "2026-10-20T08:33:09+00:00",
+      "image": "https://media.europeangaming.eu/uploads/2026/10/ICONIC21-releases-four-game-Halloween-Pack-across-slots-blackjack-and-crash.jpg"
+    },
+    {
+      "title": "Comoros Seeks UK Help and Possible Legal Action Over Anjouan Gambling Licenses",
+      "link": "https://www.gamblingnews.com/news/comoros-seeks-uk-help-and-possible-legal-action-over-anjouan-gambling-licenses/",
+      "summary": "The government of Comoros, the beautiful tropical islands near Madagascar, wants the British authorities to help it look into an offshore gambling licensing network that it claims is operating without authorization under…",
+      "source": "Gambling News",
+      "date": "2026-10-20T08:28:48+00:00",
+      "image": "https://www.gamblingnews.com/wp-content/uploads/2025/03/magnifying-glass-business-questions-news.jpg"
+    },
+    {
+      "title": "PAGCOR targets December rollout of dedicated igaming operator app",
+      "link": "https://www.intergameonline.com/igaming/news/pagcor-december-rollout-igaming-operator-app",
+      "summary": "Partnership with Development Bank of the Philippines Data Center will be key in the app’s success.",
+      "source": "InterGame Online",
+      "date": "2026-10-20T08:14:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Zitro boards Jin Ken Express with new Dragon and Phoenix games",
+      "link": "https://agbrief.com/news/world/20/10/2026/zitro-boards-jin-ken-express-with-new-dragon-and-phoenix-games/",
+      "summary": "Zitro is expanding its CONCEPT portfolio with Jin Ken Express, a new game family featuring two titles, Dragon and Phoenix. The post Zitro boards Jin Ken Express with new Dragon and Phoenix games first appeared on Asia Ga…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T08:11:13+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2026/10/Zitro-boards-Jin-Ken-Express-with-new-Dragon-and-Phoenix-games-1024x536.webp"
+    },
+    {
+      "title": "Better Collective debuts Prediction Pro ahead of US midterms",
+      "link": "https://sbcnews.co.uk/marketing/2026/10/20/better-collective-debuts-prediction-pro-ahead-of-us-midterms/",
+      "summary": "Better Collective A/S has unveiled ‘Prediction Pro’, its new subscription product designed to provide forecasting tools and analysis for prediction market audiences. The launch builds on the group’s expansion into predic…",
+      "source": "SBC News",
+      "date": "2026-10-20T08:02:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Delasport debuts in Alberta igaming market with Betnova",
+      "link": "https://www.intergameonline.com/igaming/news/delasport-betnova-alberta-igaming-market-canada",
+      "summary": "Supplier continues partnership with Betnova into a second Canadian province.",
+      "source": "InterGame Online",
+      "date": "2026-10-20T07:58:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "BMM gets online approval for New Zealand",
+      "link": "https://www.intergameonline.com/igaming/news/bmm-gets-online-approval-for-new-zealand",
+      "summary": "The company has been given the green light to extend its services to the online gaming space.",
+      "source": "InterGame Online",
+      "date": "2026-10-20T07:58:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Sports betting scores notable revenue jump in Pennsylvania",
+      "link": "https://www.intergameonline.com/sports-betting/news/pennsylvania-september-gaming-revenue-report",
+      "summary": "Sports wagering revenue in the Keystone State rose by 50 per cent in September.",
+      "source": "InterGame Online",
+      "date": "2026-10-20T07:49:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Debt repayments and EBITDA growth lift Light & Wonder outlook: Fitch",
+      "link": "https://agbrief.com/news/australia/20/10/2026/debt-repayments-and-ebitda-growth-lift-light-wonder-outlook-fitch/",
+      "summary": "Expected debt reduction and EBITDA growth across its businesses support Light &#038; Wonder’s Positive outlook from Fitch. The post Debt repayments and EBITDA growth lift Light &#038; Wonder outlook: Fitch first appeared…",
+      "source": "Asia Gaming Brief",
+      "date": "2026-10-20T07:16:27+00:00",
+      "image": "https://agbrief.com/wp-content/uploads/2026/03/Light-Wonder-2-1024x576.webp"
+    },
     {
       "title": "Las Vegas Strip Signs Say No Tipping Required of Tourists",
       "link": "https://www.gamblingnews.com/news/las-vegas-strip-signs-say-no-tipping-required-of-tourists/",
@@ -18,14 +410,6 @@
       "image": "https://www.gamblingnews.com/wp-content/uploads/2023/01/ohio-united-states.jpeg"
     },
     {
-      "title": "Further GST provision pushes Delta Corp to second consecutive quarterly loss",
-      "link": "https://agbrief.com/news/india/20/10/2026/further-gst-provision-pushes-delta-corp-to-second-consecutive-quarterly-loss/",
-      "summary": "Delta Corp posted a second consecutive quarterly loss after additional GST provisions, while casino revenue fell 13.4 percent. The post Further GST provision pushes Delta Corp to second consecutive quarterly loss first a…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-20T06:30:48+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2022/01/Delta-Caravela.jpg"
-    },
-    {
       "title": "Hippos ATG becomes second operator to announce Finnish gambling licence",
       "link": "https://europeangaming.eu/portal/latest-news/2026/10/20/216260/hippos-atg-finnish-gambling-licence/",
       "summary": "Hippos ATG plans to go live on 1 July 2027, following Wildz Group, but Finland’s National Police Board&#8230; The post Hippos ATG becomes second operator to announce Finnish gambling licence appeared first on European Ga…",
@@ -34,52 +418,12 @@
       "image": "https://media.europeangaming.eu/uploads/2026/10/hippos-atg-finnish-gambling-licence.webp"
     },
     {
-      "title": "The UAE Lottery marks 100th Lucky Day draw with over AED 300 Million awarded",
-      "link": "https://agbrief.com/news/uae/20/10/2026/the-uae-lottery-marks-100th-lucky-day-draw-with-over-aed-300-million-awarded/",
-      "summary": "The UAE Lottery marked a major milestone on 17 October 2026, celebrating its 100th Lucky Day draw with a special video featuring Chief Celebration Officer and international cricket legend Brett Lee. The post The UAE Lott…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-20T02:43:44+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2026/10/The-UAE-Lottery-marks-100th-Lucky-Day-draw-with-over-AED-300-Million-awarded-819x1024.webp"
-    },
-    {
-      "title": "Scientific Games’ U.S. instant game facility achieves WLA-SCS:2024 Level 2 certification",
-      "link": "https://agbrief.com/news/usa/20/10/2026/scientific-games-u-s-instant-game-facility-achieves-wla-scs2024-level-2-certification/",
-      "summary": "Scientific Games has announced that its U.S. instant scratch game production facility has achieved Level 2 certification under the World Lottery Association Security Control Standard 2024 (WLA-SCS:2024), the highest cert…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-20T02:13:44+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2025/05/Scientific-Games.jpg"
-    },
-    {
-      "title": "After Fake Showgirl Beatdown, Vegas Warns Tourists That Tipping for Photos is Not Required",
+      "title": "Vegas Warns Tourists: You Don’t Have to Tip Street Performers After ‘Showgirl’ Brawl",
       "link": "https://www.casino.org/news/las-vegas-warns-tourists-not-to-tip-street-performers-after-fake-showgirl-brawl/",
       "summary": "Las Vegas has some advice for how not to get beaten up on the Strip for leaving what a costumed street performer feels is too puny a tip for their services. However, critics are questioning whether it&#8217;s the best ad…",
       "source": "Casino.org",
       "date": "2026-10-20T01:40:23+00:00",
       "image": "https://www.casino.org/news/wp-content/uploads/2026/10/commissioner-michael-naft.jpg"
-    },
-    {
-      "title": "Asia Gaming eBrief: Australia sets out influencer advertising rules",
-      "link": "https://agbrief.com/news/20/10/2026/australia-sets-out-influencer-advertising-rules/",
-      "summary": "Being well known in a small circle can still count. Australia’s new wagering advertising guidance extends the notable-person test beyond household names, with niche influencers potentially covered even when their followi…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-20T01:07:19+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2024/09/Australia-1024x512.webp"
-    },
-    {
-      "title": "Aristocrat Gaming’s Dragon Link and Phoenix Link power up Dragon Lair debut at Rio Las Vegas",
-      "link": "https://agbrief.com/news/usa/20/10/2026/aristocrat-gamings-dragon-link-and-phoenix-link-power-up-dragon-lair-debut-at-rio-las-vegas/",
-      "summary": "Aristocrat Gaming has expanded its presence at Rio Hotel &#038; Casino with the opening of Dragon Lair, a gaming room dedicated to Dragon Link&#x2122; and Phoenix Link&#x2122;. The post Aristocrat Gaming’s Dragon Link an…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-20T00:12:15+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2026/10/Aristocrat-Gamings-Dragon-Link-and-Phoenix-Link-power-up-Dragon-Lair-debut-at-Rio-Las-Vegas-1024x739.webp"
-    },
-    {
-      "title": "BMM Testlabs approved for online gaming certification in New Zealand",
-      "link": "https://agbrief.com/news/new-zealand/20/10/2026/bmm-testlabs-approved-for-online-gaming-certification-in-new-zealand/",
-      "summary": "BMM Testlabs has been approved to provide online gaming testing and certification services in New Zealand as the country establishes its regulated online casino market. The post BMM Testlabs approved for online gaming ce…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-20T00:00:58+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2026/10/BMM-Testlabs-approved-for-online-gaming-certification-in-New-Zealand-1024x768.webp"
     },
     {
       "title": "South Korea Busts $17B Gambling Network That Built Casino Sites in 10 Minutes",
@@ -92,7 +436,7 @@
     {
       "title": "VEGAS MUSIC NEWS: Caesars Palace Books Mötley Crüe, J-Lo Vegas Residency to Air on TV",
       "link": "https://www.casino.org/news/vegas-music-news-caesars-palace-books-motley-crue-j-lo-vegas-residency-to-air-on-tv/",
-      "summary": "Mötley Crüe will become only the second heavy metal act to play Caesars Palace in the casino’s 60-year history next spring, when it returns to Las Vegas with its new “Carnival of Sins” residency. The eight dates will be…",
+      "summary": "Mötley Crüe will become only the second heavy metal act to play Caesars Palace in the casino’s 60-year history when it brings its new “Carnival of Sins” residency to Las Vegas in spring 2027. The eight-show run takes ove…",
       "source": "Casino.org",
       "date": "2026-10-19T21:48:45+00:00",
       "image": "https://www.casino.org/news/wp-content/uploads/2026/10/live-nation.jpg"
@@ -106,30 +450,6 @@
       "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/fanduel-logo-official-physical-news.jpg"
     },
     {
-      "title": "Nevada Culinary Union Members Prepare to Host Kamala Harris",
-      "link": "https://www.gamblingnews.com/news/nevada-culinary-union-members-prepare-to-host-kamala-harris/",
-      "summary": "As midterm election campaigning heats up, Nevada remains a vital jurisdiction for both parties. Kamala Harris, who has a busy pre-election schedule that will take her to several key states, has scheduled a stop in Las Ve…",
-      "source": "Gambling News",
-      "date": "2026-10-19T21:31:54+00:00",
-      "image": "https://www.gamblingnews.com/wp-content/uploads/2024/07/kamala-harris-vp-and-democrat-mp.jpeg"
-    },
-    {
-      "title": "ACMA Publishes Initial Guidance on Ban on Featuring Notable Persons in Gambling Ads",
-      "link": "https://www.gamblingnews.com/news/acma-publishes-initial-guidance-on-ban-on-featuring-notable-persons-in-gambling-ads/",
-      "summary": "The Australian Communications and Media Authority (ACMA) has published its initial guidance on its rules regarding the prohibition of gambling ads featuring “notable persons.” This comes amid continued changes to how Aus…",
-      "source": "Gambling News",
-      "date": "2026-10-19T21:29:26+00:00",
-      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/australia-pinned-with-a-flag-map-world-news.jpg"
-    },
-    {
-      "title": "Live Out a Heroic Fantasy in Play’n GO’s Tower Run Treasure Steps",
-      "link": "https://www.gamblingnews.com/news/live-out-a-heroic-fantasy-in-playn-gos-tower-run-treasure-steps/",
-      "summary": "Play’n GO has launched Tower Run Treasure Steps, a new swords-and-sorcery-themed slot where a young peasant embarks on an adventure to become a respected knight. Players willing to assist this character on his journey ca…",
-      "source": "Gambling News",
-      "date": "2026-10-19T21:24:18+00:00",
-      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/playn-go-tower-run-treasure-steps-slots-game.jpg"
-    },
-    {
       "title": "Seaport: Macau earnings season to highlight tough 3Q26 operating environment before headwinds, comps ease in coming quarters",
       "link": "https://asgam.com/2026/10/20/seaport-macau-earnings-season-to-highlight-tough-3q26-operating-environment-before-headwinds-comps-ease-in-coming-quarters/",
       "summary": "The coming months will continue to see headwinds for Macau’s gaming operators, but not as severe as the September 2026 [&#8230;]",
@@ -138,9 +458,9 @@
       "image": "https://asgam.com/wp-content/uploads/2024/10/Macau-peninsula-aerial-300x300.jpg"
     },
     {
-      "title": "Comoros Calls Anjouan Licensing Bodies ‘Fictitious,’ Seeks UK Assistance",
+      "title": "Comoros Labels Anjouan Gambling Regulators ‘Fictitious,’ Requests UK Aid",
       "link": "https://www.casino.org/news/comoros-calls-anjouan-licensing-bodies-fictitious-seeks-uk-assistance/",
-      "summary": "The government of Comoros is seeking British assistance in investigating a controversial offshore gambling licensing network linked to UK nationals that claims to operate under the authority of Anjouan, one of the countr…",
+      "summary": "The government of Comoros is seeking British assistance to investigate an unauthorized offshore gambling network—linked to UK nationals—that claims to grant gaming licenses under the authority of Anjouan, one of the nati…",
       "source": "Casino.org",
       "date": "2026-10-19T20:49:55+00:00",
       "image": "https://www.casino.org/news/wp-content/uploads/2026/10/GettyImages-110835643.jpg"
@@ -162,17 +482,17 @@
       "image": "https://asgam.com/wp-content/uploads/2026/10/The-MongolZ-PGL-Masters-Bucharest-2026_1024x512-300x300.jpg"
     },
     {
-      "title": "FanDuel Private Equity Backers May Have to Disclose Docs as Part of Founders’ Lawsuit",
+      "title": "Founders’ Lawsuit Could Force FanDuel Private Equity Investors to Reveal Internal Records",
       "link": "https://www.casino.org/news/fanduel-private-equity-backers-may-have-to-disclose-docs-as-part-of-founders-lawsuit/",
-      "summary": "FanDuel co-founder Nigel Eccles and his more than 100 co-plaintiffs in a lawsuit against the private equity shops that sold the gaming company in 2018 scored a small legal win last week when a New York special master ord…",
+      "summary": "FanDuel co-founder Nigel Eccles and more than 100 co-plaintiffs scored a key procedural victory last week in their long-running lawsuit over the sports betting company’s 2018 buyout. A New York special master ordered tha…",
       "source": "Casino.org",
       "date": "2026-10-19T19:56:07+00:00",
       "image": "https://www.casino.org/news/wp-content/uploads/2026/09/shutterstock_26001013871.jpg"
     },
     {
-      "title": "Canadian Travel to U.S. Rebounds in September, But Remains Well Below 2024 Levels",
+      "title": "Canadian Travel to U.S. Picked Up in September, Still Far Off Pre-Pandemic Norms",
       "link": "https://www.casino.org/news/canadian-gaming-us-travel-las-vegas/",
-      "summary": "Overall trips by Canadians to the United States are growing slowly in 2026, but still lag behind historical levels, according to new data released by Statistics Canada. Canadian-resident return trips by automobile and ai…",
+      "summary": "Overall travel by Canadians to the United States continues a slow rebound in 2026, though total visits still lag behind historical norms, according to new data from Statistics Canada. Canadian-resident return trips by au…",
       "source": "Casino.org",
       "date": "2026-10-19T18:23:02+00:00",
       "image": "https://www.casino.org/news/wp-content/uploads/2025/11/Canadians-travel-to-the-U.S.jpeg"
@@ -194,9 +514,9 @@
       "image": "https://www.casino.org/news/wp-content/uploads/2026/10/x_FtMYug.jpg"
     },
     {
-      "title": "NBA Cracks Down on Player Prop Bets Following Porter, Rozier Gambling Scandals",
+      "title": "NBA Cracks Down on Player Prop Betting Following Porter, Rozier Scandals",
       "link": "https://www.casino.org/news/sports-betting-nba-restrictions-amid-gambling-scandals/",
-      "summary": "The National Basketball Association (NBA) is instructing its authorized betting partners, DraftKings and FanDuel, to stop offering certain wagers this season over concerns about gambling integrity, ESPN and The Associate…",
+      "summary": "The NBA is instructing its authorized sports betting partners, including DraftKings and FanDuel, to stop offering certain micro-wagers and player prop markets this season due to ongoing integrity concerns, according to r…",
       "source": "Casino.org",
       "date": "2026-10-19T16:09:13+00:00",
       "image": "https://www.casino.org/news/wp-content/uploads/2026/10/LeBron-James-Philadelphia-76ers.jpg"
@@ -218,52 +538,12 @@
       "image": "https://igamingbusiness.com/img-srv/Q8z2VmqEVyfD7ZqLm0BiY_LOUmQ4nrSPgblPETbNug4/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-195894/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8xMC95dXJpaS1kYXRhYmV0LXNjYWxlZC5qcGc.webp"
     },
     {
-      "title": "Connecticut Man Embezzled $300K from Employers, Used It for Gambling",
-      "link": "https://www.gamblingnews.com/news/connecticut-man-embezzled-300k-from-employers-used-it-for-gambling/",
-      "summary": "John Jeffrey Farrar, 63, of Lisbon, Connecticut, has been accused of stealing nearly $300,000 from the concrete company where he worked, allegedly using tens of thousands of that sum for travel and gambling. How Did the…",
-      "source": "Gambling News",
-      "date": "2026-10-19T15:52:35+00:00",
-      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/embezzle-legal-crime-money-finance-steal-news.jpg"
-    },
-    {
-      "title": "Florida Gambling Helpline Director Jailed for Embezzlement to Fund Gambling Addiction",
-      "link": "https://www.gamblingnews.com/news/florida-gambling-helpline-director-jailed-for-embezzlement-to-fund-gambling-addiction/",
-      "summary": "Philip Lee Sullivan, 43, former director of the Florida Council on Compulsive Gambling’s 888-ADMIT-IT helpline, has been sentenced to nearly 10 years in state prison for embezzling money from ex-employer Royal American t…",
-      "source": "Gambling News",
-      "date": "2026-10-19T15:49:04+00:00",
-      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/embezzle-crime-money-finance-steal-news.jpg"
-    },
-    {
       "title": "Penn State Football Isn’t the Only Thing Struggling in Happy Valley—So Is Its Casino",
       "link": "https://www.casino.org/news/penn-state-football-isnt-only-thing-struggling-happy-valley-casino/",
       "summary": "Penn State football is enduring a difficult year under first-year head coach Matt Campbell. The college town&#8217;s local casino is also underwhelming in year one. Happy Valley Casino opened in April at the Nittany Mall…",
       "source": "Casino.org",
       "date": "2026-10-19T15:40:38+00:00",
       "image": "https://www.casino.org/news/wp-content/uploads/2026/10/GettyImages-2299855130.jpg"
-    },
-    {
-      "title": "Monday Marketing Watch – ACMA sweeping changes for fresh Australian advertising landscape",
-      "link": "https://igamingexpert.com/news/affiliates/acma-influencer-guidelines-australian-advertising/",
-      "summary": "The use of celebrities, influencers and notable persons will be banned as part of Australia&#8216;s sweeping changes to advertising guidelines. Amendments to Australia’s Interactive Gambling Act 2001 were enacted earlier…",
-      "source": "iGaming Expert",
-      "date": "2026-10-19T15:19:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "The PA Acquires Australian Racing Media Outlet RAS",
-      "link": "https://www.gamblingnews.com/news/the-pa-acquires-australian-racing-media-outlet-ras/",
-      "summary": "The PA, a multimedia news agency, announced the acquisition of RAS Technology Holdings Limited (RAS), the owner of Racing and Sports. According to the announcement, the transaction will support the global racing and bett…",
-      "source": "Gambling News",
-      "date": "2026-10-19T14:52:55+00:00",
-      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/10/ma-mergers-and-acquisitions-business-image-4-news.jpg"
-    },
-    {
-      "title": "Macau 3Q26 EBITDA forecast to fall 10.6% as margins tighten: Seaport",
-      "link": "https://agbrief.com/news/macau/19/10/2026/macau-3q26-ebitda-forecast-to-fall-10-6-as-margins-tighten-seaport/",
-      "summary": "Macau’s third-quarter casino EBITDA is forecast to fall 10.6 percent as weaker demand and high player spending squeeze margins. The post Macau 3Q26 EBITDA forecast to fall 10.6% as margins tighten: Seaport first appeared…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-19T14:13:29+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2024/01/macau-gaming-casino.webp"
     },
     {
       "title": "Kamala Harris to Rally Las Vegas Casino Union Members Ahead of Nevada Gubernatorial Election",
@@ -338,44 +618,12 @@
       "image": ""
     },
     {
-      "title": "GG Poker progressive KO format secures unexpected record",
-      "link": "https://igamingexpert.com/news/games/gg-poker-jackpot-record/",
-      "summary": "The appetite of a modern audience for poker was on full display, as a record for most entries was smashed during GG Poker’s $5 Ocean KO Opener. The previous record was set in October 2015, standing at 253,692 participant…",
-      "source": "iGaming Expert",
-      "date": "2026-10-19T13:49:27+00:00",
-      "image": ""
-    },
-    {
       "title": "ONJN ex-boss: “Don’t turn problem gamblers into collateral of leadership changes”",
       "link": "https://sbcnews.co.uk/europe/2026/10/19/romania-onjn-interview/",
       "summary": "Vlad-Cristian Soare, former President of Romania’s ONJN gambling office, has offered a much needed glimpse into his sudden departure from the regulator earlier this year. In an interview with Romanian news outlet Adevăru…",
       "source": "SBC News",
       "date": "2026-10-19T13:47:02+00:00",
       "image": ""
-    },
-    {
-      "title": "Mega Millions Player Turns 5x Ticket into a $5M Payday",
-      "link": "https://www.gamblingnews.com/news/mega-millions-player-turns-5x-ticket-into-a-5m-payday/",
-      "summary": "A lucky Mega Millions player has narrowly missed the game’s $403 million jackpot, only to win $5 million instead. According to the official announcement, the lucky winner was a player in New York. New Yorker Wins $5M fro…",
-      "source": "Gambling News",
-      "date": "2026-10-19T13:35:29+00:00",
-      "image": "https://www.gamblingnews.com/wp-content/uploads/2026/02/mega-millions-jackpot-lottery.jpeg"
-    },
-    {
-      "title": "Pragmatic Play launches €1.25M promotion ahead of Kevin Hart live casino event",
-      "link": "https://agbrief.com/news/world/19/10/2026/pragmatic-play-launches-e1-25m-promotion-ahead-of-kevin-hart-live-casino-event/",
-      "summary": "With the countdown now well underway, Irina Cornides, Chief Operating Officer at Pragmatic Play, said: “We are now getting closer to the moment when Kevin Hart steps into the studio, and the excitement around the collabo…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-19T13:33:11+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2026/10/Pragmatic-Play-launches-E1.25M-promotion-ahead-of-Kevin-Hart-live-casino-event.webp"
-    },
-    {
-      "title": "BC.GAME reports $10 million in BC Engine rewards within six months",
-      "link": "https://agbrief.com/news/world/19/10/2026/bc-game-reports-10-million-in-bc-engine-rewards-within-six-months/",
-      "summary": "BC.GAME has announced that its BC Engine generated more than 10 million BCD in cumulative rewards, equivalent to over US$10 million, during its first six months of operation. The post BC.GAME reports $10 million in BC En…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-19T13:20:11+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2026/10/BC.GAME-reports-10-million-in-BC-Engine-rewards-within-six-months-1024x576.webp"
     },
     {
       "title": "Catena Media withdraws double-digit growth hopes after “weak” Q3",
@@ -392,14 +640,6 @@
       "source": "Casino.org",
       "date": "2026-10-19T12:59:13+00:00",
       "image": "https://www.casino.org/news/wp-content/uploads/2026/10/GettyImages-2277314326.jpg"
-    },
-    {
-      "title": "ARGN strengthens advisory board with Botswana Responsible Gambling Manager",
-      "link": "https://igamingexpert.com/regions/africa/argn-strengthens-advisory-board-with-botswana-responsible-gambling-manager/",
-      "summary": "The African Responsible Gaming Network (ARGN) has continued to strengthen its advisory board with the appointment of Portia Gaone Diteko, Responsible Gambling Manager, Botswana Gambling Authority.&#160; Last week, the bo…",
-      "source": "iGaming Expert",
-      "date": "2026-10-19T12:54:59+00:00",
-      "image": ""
     },
     {
       "title": "Austria faces TRIS deadline for EU approval of new gaming orders",
@@ -426,22 +666,6 @@
       "image": "https://media.europeangaming.eu/uploads/2026/10/BGaming-signs-content-deal-with-Peruvian-operator-LaFija.com_.jpg"
     },
     {
-      "title": "VEGAS MYTHS BUSTED: Luke Combs Owns Category 10",
-      "link": "https://www.casino.org/news/vegas-myths-busted-luke-combs-owns-category-10/",
-      "summary": "Luke Combs wouldn&#8217;t mind your thinking that he owns Category 10, but he doesn’t. Not the building, not the Hurricane Hall dining room and honky-tonk stage, not The Still bar, not the Eye Rooftop. What he does own i…",
-      "source": "Casino.org",
-      "date": "2026-10-19T12:21:00+00:00",
-      "image": "https://www.casino.org/news/wp-content/uploads/2026/09/MYTH-Combs-owns-Category-10.jpg"
-    },
-    {
-      "title": "Political ties to crypto casino Shuffle continue to raise questions in Thailand",
-      "link": "https://igamingexpert.com/regions/asia/political-ties-shuffle-thailand/",
-      "summary": "Scrutiny is intensifying over the relationship between the crypto casino Shuffle.com and a Thai member of parliament. Former politician Sirichok Sopha has called for an investigation into the role played by Bhumjaithai M…",
-      "source": "iGaming Expert",
-      "date": "2026-10-19T12:07:09+00:00",
-      "image": ""
-    },
-    {
       "title": "Kambi continues to grow network with QuinnBet partnership",
       "link": "https://sbcnews.co.uk/sportsbook/2026/10/19/kambi-quinnbet-partner/",
       "summary": "Sportsbook provider Kambi Group plc has signed a multi-year deal with UK and Ireland-focused bookmaker QuinnBet. The partnership will see QuinnBet migrate to Kambi&#8217;s Turnkey Sportsbook as it gains access to the lis…",
@@ -456,22 +680,6 @@
       "source": "European Gaming",
       "date": "2026-10-19T11:40:06+00:00",
       "image": "https://media.europeangaming.eu/uploads/2026/10/French-gambling-growth-slows-to-0.5-in-H1-2026-carried-by-online.jpg"
-    },
-    {
-      "title": "Battle lines drawn as retail betting rallies against unwavering Labour backbenchers",
-      "link": "https://igamingexpert.com/features/retail-betting-gambling-taxes-analysis/",
-      "summary": "The gambling industry remains at the centre of unwanted conjecture as a budget approaches that will define the early days of the leadership of Andy Burnham and UK Chancellor John Healey. Off the back of a historic tax hi…",
-      "source": "iGaming Expert",
-      "date": "2026-10-19T11:13:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "Australian regulator says small influencers may fall under wagering ad ban",
-      "link": "https://agbrief.com/intel/19/10/2026/australian-regulator-says-small-influencers-may-fall-under-wagering-ad-ban/",
-      "summary": "ACMA says influencers with small followings could fall under Australia’s wagering ad ban, which takes effect in January 2027. The post Australian regulator says small influencers may fall under wagering ad ban first appe…",
-      "source": "Asia Gaming Brief",
-      "date": "2026-10-19T10:27:58+00:00",
-      "image": "https://agbrief.com/wp-content/uploads/2026/08/Australia-gambling-ad-bill-clears-House-with-tighter-marketing-rules-1024x683.webp"
     },
     {
       "title": "ACMA issues first guidance on Australia’s ban on notable people in gambling ads",
@@ -490,36 +698,12 @@
       "image": "https://igamingbusiness.com/img-srv/GjHA9nFzta7VdyTRDDgXxvjkRCJ1OdA09WujwtBj7mU/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-955281/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wNS9uaWNrLWZld2luZ3MtRDY4dmx5Y2taaHMtdW5zcGxhc2gtc2NhbGVkLmpwZw.webp"
     },
     {
-      "title": "National Lottery licence to be evaluated by UK watchdog",
-      "link": "https://sbcnews.co.uk/europe/uk/2026/10/19/national-lottery-uk/",
-      "summary": "The UK’s National Audit Office (NAO) has launched an inspection into the fourth National Lottery licence, reviewing whether the oversight of the Gambling Commission is on par to maximise returns to Good Causes. The 10-ye…",
-      "source": "SBC News",
-      "date": "2026-10-19T10:15:00+00:00",
-      "image": "https://www.youtube.com/embed/llG_DvJLhuc"
-    },
-    {
       "title": "The Gambling Wire: NBA Tightens Betting Rules as Prediction Markets Challenge Missouri",
       "link": "https://www.gamblinginsider.com/news/197232/nba-tightens-prop-bets-rules-prediction-markets-missouri-lawsuits",
       "summary": "The NBA moves to restrict certain player prop bets, while Novig and Crypto.com take Missouri regulators to court. Elsewhere, UK lawmakers push for higher gambling taxes and US election prediction markets approach $1 bill…",
       "source": "Gambling Insider",
       "date": "2026-10-19T10:14:12+00:00",
       "image": "https://www.gamblinginsider.com/wp-content/uploads/2026/10/The-Gambling-Wire-NBA-Tightens-Betting-Rules-as-Prediction-Markets-Challenge-Missouri.png"
-    },
-    {
-      "title": "SBC and VNLOK announce strategic partnership to strengthen licensed operator participation at SBC Summit Europe",
-      "link": "https://sbcnews.co.uk/events/sbcevents/2026/10/19/sbc-vnlok-sbc-summit-europe/",
-      "summary": "Multi-year partnership will bring Dutch licensed operators and industry leadership to Amsterdam, strengthening dialogue on regulation, player protection and the future of Europe&#8217;s regulated gaming markets.&#160; SB…",
-      "source": "SBC News",
-      "date": "2026-10-19T10:04:56+00:00",
-      "image": ""
-    },
-    {
-      "title": "SBC and VNLOK announce strategic partnership to strengthen licensed operator participation at SBC Summit Europe",
-      "link": "https://igamingexpert.com/news/sbc-vnlok-sbc-summit-europe/",
-      "summary": "Multi-year partnership will bring Dutch licensed operators and industry leadership to Amsterdam, strengthening dialogue on regulation, player protection and the future of Europe&#8217;s regulated gaming markets.&#160; SB…",
-      "source": "iGaming Expert",
-      "date": "2026-10-19T10:04:53+00:00",
-      "image": ""
     },
     {
       "title": "Pragmatic Play launches €1.25m Kevin Hart live casino promotion",
@@ -538,52 +722,12 @@
       "image": "https://asgam.com/wp-content/uploads/2025/06/Sydney-300x300.jpeg"
     },
     {
-      "title": "Maxxi Labs launches AviaX crash game with dual betting and auto cash-out",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/10/19/216183/maxxi-labs-aviax-crash-game/",
-      "summary": "AviaX is the studio collective&#8217;s first crash title, arriving seven weeks after Maxxi Labs debuted on the market&#8230; The post Maxxi Labs launches AviaX crash game with dual betting and auto cash-out appeared firs…",
-      "source": "European Gaming",
-      "date": "2026-10-19T09:33:27+00:00",
-      "image": "https://media.europeangaming.eu/uploads/2026/10/Maxxi-Labs-launches-AviaX-crash-game-with-dual-betting-and-auto-cash-out.jpg"
-    },
-    {
-      "title": "BGC lambasts calls by 90 MPs to raise UK betting tax as “deeply misguided”",
-      "link": "https://sbcnews.co.uk/features/comment/2026/10/19/bgc-ceo-on-mps-mgd-letter/",
-      "summary": "The Chief Executive Officer of the Betting and Gaming Council (BGC) has told UK MPs backing a Machine Games Duty (MGD) increase that their views are “deeply misguided”.&#160; Grainne Hurst, who heads up the UK’s gambling…",
-      "source": "SBC News",
-      "date": "2026-10-19T09:32:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "BetConstruct AI: Brazil chaos will create scars across industry",
-      "link": "https://sbcnews.co.uk/features/2026/10/19/betconstruct-ai-brazil-chaos-interview/",
-      "summary": "Shortly after his appointment as VP of Latin America at BetConstruct AI, Fabio Tiberia sat down with SBC News to discuss all the latest ongoings from one of iGaming’s most important and dynamic regions. Tiberia discusses…",
-      "source": "SBC News",
-      "date": "2026-10-19T09:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "“A historic moment” – Norsk Tipping & Sportradar on a World Cup to remember",
-      "link": "https://sbcnews.co.uk/features/interviews/2026/10/19/norsk-tipping-sportradar/",
-      "summary": "This year was a big one for Norwegian football. With Erling Haaland up front, the national team not only marked its return to the grand stage of the World Cup, they cemented their position as one of its biggest challenge…",
-      "source": "SBC News",
-      "date": "2026-10-19T09:20:00+00:00",
-      "image": ""
-    },
-    {
       "title": "The PA agrees takeover of Racing and Sports owner RAS Technology",
       "link": "https://igamingbusiness.com/strategy/ma/the-pa-agrees-takeover-of-racing-and-sports-owner-ras-technology/",
       "summary": "UK news group to combine the ASX-listed racing data supplier with its Podium betting data business, expanding into Australian wagering.",
       "source": "iGaming Business",
       "date": "2026-10-19T08:56:38+00:00",
       "image": "https://igamingbusiness.com/img-srv/K38SiPESrCu14NncvpTT2P5FG-9NEnjGlbj4chCXoZc/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-132055/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wOC9tZXJnZXIuanBn.webp"
-    },
-    {
-      "title": "Gambling stocks weekly (12–16 October): European market analysis & trends",
-      "link": "https://europeangaming.eu/portal/latest-news/2026/10/19/216178/gambling-stocks-weekly-12-to-16-october/",
-      "summary": "Four of the nine stocks rose in a week when Rank and Entain reported, Flutter touched a 52-week&#8230; The post Gambling stocks weekly (12–16 October): European market analysis &amp; trends appeared first on European Gam…",
-      "source": "European Gaming",
-      "date": "2026-10-19T08:42:20+00:00",
-      "image": "https://media.europeangaming.eu/uploads/2026/10/Gambling-stocks-weekly-October-12-16.webp"
     },
     {
       "title": "Stake Denmark managing director departs after VinderCasino acquisition",
@@ -624,22 +768,6 @@
       "source": "InterGame Online",
       "date": "2026-10-19T08:01:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Entain reiterates confidence in cash generation and “laser focus” on shareholder returns",
-      "link": "https://sbcnews.co.uk/sportsbook/2026/10/19/entain-q3-investor-call/",
-      "summary": "Entain leadership figures have stated they are “very confident” about the operator’s ability to generate cash despite navigating a rocky path in several markets. The business released its Q3 results last Thursday, which…",
-      "source": "SBC News",
-      "date": "2026-10-19T08:00:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Machine games duty: 90 Labour MPs demand rise as BGC objects",
-      "link": "https://europeangaming.eu/portal/latest-news/2026/10/19/216170/labour-mps-machine-games-duty-letter-bgc/",
-      "summary": "The letter cites the Social Market Foundation’s estimates of up to £458 million a year from a 40%&#8230; The post Machine games duty: 90 Labour MPs demand rise as BGC objects appeared first on European Gaming Industry Ne…",
-      "source": "European Gaming",
-      "date": "2026-10-19T07:17:33+00:00",
-      "image": "https://media.europeangaming.eu/uploads/2026/10/Machine-games-duty_-90-Labour-MPs-demand-rise-as-BGC-objects.jpg"
     },
     {
       "title": "Last orders for Britain’s arcades?",
@@ -714,30 +842,6 @@
       "image": ""
     },
     {
-      "title": "What is RTP in casino games? Return to Player explained",
-      "link": "https://europeangaming.eu/portal/what-is-rtp/",
-      "summary": "RTP stands for Return to Player and measures the theoretical percentage of total money wagered that a game&#8230; The post What is RTP in casino games? Return to Player explained appeared first on European Gaming Industr…",
-      "source": "European Gaming",
-      "date": "2026-10-18T06:00:00+00:00",
-      "image": "https://media.europeangaming.eu/uploads/2026/10/what-is-rtp-featured-image-1.webp"
-    },
-    {
-      "title": "Florida Gambling Helpline Boss Jailed for $1.4M Theft, Blames ADHD Meds",
-      "link": "https://www.casino.org/news/florida-gambling-helpline-boss-jailed-for-1-4m-theft-blames-adhd-meds/",
-      "summary": "A Florida gambling helpline director who stole $1.4 million to feed his own massive gambling habit was sentenced to nearly 10 years in prison. Although 43-year-old Philip Lee Sullivan had entered recovery and dedicated h…",
-      "source": "Casino.org",
-      "date": "2026-10-18T00:35:05+00:00",
-      "image": "https://www.casino.org/news/wp-content/uploads/2026/10/Sullivan.jpg"
-    },
-    {
-      "title": "Fair Play Enforcement Act: Colleges Could Face Millions in Fines Under New Bill",
-      "link": "https://www.casino.org/news/colleges-face-steep-fines-under-proposed-fair-play-enforcement-act/",
-      "summary": "Prompted by recent eligibility controversies at LSU, bipartisan federal legislation would levy massive tax penalties on colleges that field former professional athletes or student-athletes with gambling violations. U.S.…",
-      "source": "Casino.org",
-      "date": "2026-10-17T18:28:42+00:00",
-      "image": "https://www.casino.org/news/wp-content/uploads/2026/10/GettyImages-2299781254.jpg"
-    },
-    {
       "title": "Fliff Sportsbook Promo: Get a 100% Match Bonus Up to $250 for College Football (October 17)",
       "link": "https://www.legalsportsreport.com/282646/fliff-sportsbook-promo-college-football-october-17-2026/",
       "summary": "College football offers one of the year&#8217;s deepest slates this Saturday, topped by two ranked matchups at opposite ends of the day. Ohio State heads to Bloomington to take on Indiana at noon,...",
@@ -746,44 +850,12 @@
       "image": ""
     },
     {
-      "title": "EU iGaming weekly: EU levy, Entain Q3, Matchbook’s Betdaq acquisition",
-      "link": "https://europeangaming.eu/portal/latest-news/2026/10/17/216166/eu-igaming-weekly-eu-gambling-levy-entain-q3-matchbook-betdaq/",
-      "summary": "Ireland’s draft EU budget left out an online gambling levy, Entain’s UK and Ireland online NGR rose 14%,&#8230; The post EU iGaming weekly: EU levy, Entain Q3, Matchbook’s Betdaq acquisition appeared first on European Ga…",
-      "source": "European Gaming",
-      "date": "2026-10-17T06:00:00+00:00",
-      "image": "https://media.europeangaming.eu/uploads/2026/10/eu-igaming-weekly-october-12-18-2026.webp"
-    },
-    {
       "title": "Prediction market roundup: Volume on 2026 US midterms approaches $1 billion",
       "link": "https://igamingbusiness.com/prediction-markets/prediction-market-roundup-101626/",
       "summary": "As Washington DC prepares for arguably the most momentous midterm elections in decades, leading prediction markets have seen a flurry of trading on election contracts.",
       "source": "iGaming Business",
       "date": "2026-10-17T01:20:40+00:00",
       "image": "https://igamingbusiness.com/img-srv/WbomLritcUEHRzC9v6yQBeoSeXhNpgjQt3SqZRCrspY/resizing_type:auto/width:0/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:90/cachebuster:filesize-227561/bG9jYWw6Ly8vaWdhbWluZ2J1c2luZXNzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wNC93YXNoaW5ndG9uLWRjLWNhcGl0b2wuanBn.webp"
-    },
-    {
-      "title": "Cedar Rapids’ $275M Cedar Crossing Casino Sets Official Opening Date",
-      "link": "https://www.casino.org/news/275m-cedar-crossing-casino-in-cedar-rapids-sets-opening-date/",
-      "summary": "Cedar Crossing Casino &#38; Entertainment Center in Iowa&#8217;s Cedar Rapids will open on Thursday, Nov. 19, just a week before the Thanksgiving and Black Friday holidays. Los Angeles–based Peninsula Pacific Entertainme…",
-      "source": "Casino.org",
-      "date": "2026-10-16T22:09:19+00:00",
-      "image": "https://www.casino.org/news/wp-content/uploads/2025/05/Cedar.jpg"
-    },
-    {
-      "title": "FBI Links Casino Bomb Threat Suspect to Violent Extremist Group Targeting Children",
-      "link": "https://www.casino.org/news/fbi-links-casino-bomb-threat-suspect-to-online-network-that-coerces-children-into-self-harm/",
-      "summary": "A 21-year-old Northern Ireland man accused of targeting US casinos with bomb threats is a &#8220;high-ranking member&#8221; of a global online network that coerces children into self-harm, the FBI told a court Friday. Ja…",
-      "source": "Casino.org",
-      "date": "2026-10-16T20:56:15+00:00",
-      "image": "https://www.casino.org/news/wp-content/uploads/2026/10/Hollywood-Park.jpg"
-    },
-    {
-      "title": "Fanatics CEO Michael Rubin Projects Sports Betting Ad Spend to Reach $7B by 2027",
-      "link": "https://www.casino.org/news/fanatics-ceo-rubin-says-sports-betting-advertising-could-hit-7b-in-2027/",
-      "summary": "A multi-billion-dollar ad war is brewing in U.S. sports betting, with industry-wide marketing spend projected to reach $7 billion in 2027 as operators fight off rising prediction market rivals, according to Fanatics CEO…",
-      "source": "Casino.org",
-      "date": "2026-10-16T20:12:02+00:00",
-      "image": "https://www.casino.org/news/wp-content/uploads/2023/11/fanatics.jpg"
     },
     {
       "title": "NBA Bans More Prop Bets, Parlays, But Rules Exclude Prediction Markets",
@@ -839,14 +911,6 @@
       "summary": "Aunque se preveía un sólido potencial de crecimiento para su marca Sportingbet en Brasil antes de la repentina prohibición de las apuestas online en el país, los resultados financieros del [&#8230;]",
       "source": "SBC Noticias",
       "date": "2026-10-16T13:54:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Lula podría capitalizar el apoyo a la prohibición de las apuestas",
-      "link": "https://sbcnoticias.com/lula-capitalizar-apoyo-prohibicion-apuestas/",
-      "summary": "La primera encuesta de Quaest para la segunda vuelta de las elecciones presidenciales de Brasil, muestra al senador Flávio Bolsonaro con un 46 por ciento de intención de voto, frente [&#8230;]",
-      "source": "SBC Noticias",
-      "date": "2026-10-16T13:53:58+00:00",
       "image": ""
     },
     {
@@ -1050,14 +1114,6 @@
       "image": ""
     },
     {
-      "title": "Betty reports growing UK player retention after June launch",
-      "link": "https://www.intergameonline.com/igaming/news/betty-uk-growing-player-retention-q3",
-      "summary": "Operator, which expanded out of Ontario, Canada, in the summer has released Q3 figures.",
-      "source": "InterGame Online",
-      "date": "2026-10-15T07:54:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Divided they fall: Is the sector presenting the right argument against MGD hike threats?",
       "link": "https://igamingbusiness.com/finance/tax/is-the-sector-presenting-the-right-argument-against-mgd-hike/",
       "summary": "A threatened rise in machine games duty could reshape the UK’s gambling high street. But some voices are warning that dividing bookmakers from adult gaming centres risks conceding the argument for higher taxes.",
@@ -1098,30 +1154,6 @@
       "image": "https://www.gamblinginsider.com/wp-content/uploads/2026/10/ftc-headquarters-sports-betting-.jpg"
     },
     {
-      "title": "Brazil betting demand returns to 2022 levels",
-      "link": "https://www.intergameonline.com/igaming/news/brazil-betting-demand-returns-to-2022-levels",
-      "summary": "Blas Index figures have been falling every month since May.",
-      "source": "InterGame Online",
-      "date": "2026-10-14T07:55:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Gamomat makes Austria igaming debut with win2day",
-      "link": "https://www.intergameonline.com/igaming/news/gamomat-austria-igaming-debut-win2day",
-      "summary": "Slot supplier marks a debut in the European jurisdiction.",
-      "source": "InterGame Online",
-      "date": "2026-10-14T07:52:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "High Roller Technologies expands C-suite with prediction markets role",
-      "link": "https://www.intergameonline.com/igaming/news/high-roller-technologies-chief-business-officer-prediction-markets",
-      "summary": "Flip Pidot has joined the company as chief business officer.",
-      "source": "InterGame Online",
-      "date": "2026-10-14T07:38:00+00:00",
-      "image": ""
-    },
-    {
       "title": "States Review Sportsbook Draft Bets, But Not Kalshi’s 598,464 Contracts on Cardinals’ Pick",
       "link": "https://www.gamblinginsider.com/news/196860/kalshi-polymarket-nfl-draft-jeremiyah-love-regulators",
       "summary": "Kalshi customers traded more contracts on Jeremiyah Love going third in the NFL draft than on any other player, most of them on draft day. Arizona and Massachusetts are reviewing betting tied to the Ryan Gold case at the…",
@@ -1130,44 +1162,12 @@
       "image": "https://www.gamblinginsider.com/wp-content/uploads/2026/10/kalshi-contracts-on-cardinals-draft-pick.jpg"
     },
     {
-      "title": "BetMGM rides Alberta wave with Q3 revenue up 7%",
-      "link": "https://www.intergameonline.com/igaming/news/betmgm-alberta-q3-results-revenue-igaming-sports-betting",
-      "summary": "Jointly-owned operator saw igaming and sports betting revenue both increase year-on-year.",
-      "source": "InterGame Online",
-      "date": "2026-10-13T12:11:00+00:00",
-      "image": ""
-    },
-    {
       "title": "The Gambling Wire: Prediction Markets Top $10 Billion as Election Betting Faces Public Opposition",
       "link": "https://www.gamblinginsider.com/news/196959/prediction-markets-record-volume-election-betting-poll",
       "summary": "Another record weekend highlights the industry’s rapid growth, while a new poll reveals widespread opposition to betting on elections and government affairs. Another weekend, another prediction market trading record. Kal…",
       "source": "Gambling Insider",
       "date": "2026-10-13T11:11:56+00:00",
       "image": "https://www.gamblinginsider.com/wp-content/uploads/2026/10/prediction-markets-record-trading-volume-.jpg"
-    },
-    {
-      "title": "Hard Rock Casino NL secures sports betting licence",
-      "link": "https://www.intergameonline.com/igaming/news/hard-rock-casino-nl-sports-betting-licence",
-      "summary": "Operator bolts a sportsbook onto its igaming operations in the Netherlands.",
-      "source": "InterGame Online",
-      "date": "2026-10-13T08:49:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kaizen Gaming ‘committed to Brazil’ as jobs kept safe",
-      "link": "https://www.intergameonline.com/igaming/news/kaizen-gaming-committed-to-brazil-jobs-safe",
-      "summary": "Operator confirms it has “guaranteed” its Brazilian workforce’s continued employment until a regulatory resolution is reached.",
-      "source": "InterGame Online",
-      "date": "2026-10-13T08:38:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "The Gambling Wire: CFTC Clarifies Sports Betting Rules, NBA Seeks Prediction Market Data",
-      "link": "https://www.gamblinginsider.com/news/196922/cftc-sports-betting-rules-nba-prediction-markets",
-      "summary": "The CFTC seeks to distinguish sportsbook bets from event contracts. Meanwhile, the NBA calls for national regulatory consistency, in contrast to the NFL’s support for state oversight. The Commodity Futures Trading Commis…",
-      "source": "Gambling Insider",
-      "date": "2026-10-12T12:35:01+00:00",
-      "image": "https://www.gamblinginsider.com/wp-content/uploads/2026/10/cftc-headquarters-prediction-market-sports-betting-.jpg"
     },
     {
       "title": "Prediction markets roundup: Novig unveils Sydney Sweeney-fronted campaign",
